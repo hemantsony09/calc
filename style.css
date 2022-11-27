@@ -1,0 +1,64 @@
+.logo img {
+    display: block;
+    margin: auto;
+    height: 60px;
+    width: 60px;
+
+}
+
+body {
+    background-color: rgb(152, 118, 118);
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+
+    margin-top: 30px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    text-align: right;
+    color: #eee;
+    background-color: rgba(86, 86, 86, 0.269);
+    height: 90px;
+    margin-top: 14px;
+    font-size: 34px;
+    border-radius: 11px;
+    border: 2px solid rgb(255, 255, 255);
+
+}
+
+input:focus {
+    background-color: rgba(129, 51, 51, 0.773);
+}
+
+button {
+    color: white;
+    background-color: rgb(56, 56, 56);
+    border-radius: 149px;
+    font-size: 33px;
+    width: 90px;
+    height: 90px;
+}
+
+.btn {
+    background-color: rgb(197, 197, 197);
+}
+
+.btn1 {
+    background-color: rgb(255, 174, 0);
+}
+
+.calculator {
+    border-radius: 12px;
+    background-color: black;
+    display: inline-block;
+    border: 2px solid black;
+    width: 400px;
+    height: 589px;
+}
